@@ -39,7 +39,7 @@ npm install
 npm start
 ```
 
-<p>4. Visit [http://localhost:3000](http://localhost:3000) to view the web page.</p>
+<p>4. Visit <a href="http://localhost:3000">Localhost</a> to view the web page.</p>
 
   
   
