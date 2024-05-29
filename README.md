@@ -8,22 +8,20 @@
 
 [https://main--golden-salmiakki-131c76.netlify.app/](https://main--golden-salmiakki-131c76.netlify.app/)
 
-<h2>Project Screenshots:</h2>
+<h2>📷 Project Screenshots:</h2>
 
 <img src="https://i.imgur.com/ARzVBoc.png" alt="project-screenshot">
 <br>
 <img src="https://i.imgur.com/YjXnxHQ.png" alt="project-screenshot">
 
-  
-  
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   Integrated with API
 *   Responsive UI
 *   Trendy UI
-*   Information about latest movies and web series
+*   Information about the latest movies and web series
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -41,7 +39,7 @@ npm install
 npm start
 ```
 
-<p>4. Open [http://localhost:3000](http://localhost:3000) to view the web page.</p>
+<p>4. Open [Local host](http://localhost:3000) to view the web page.</p>
 
   
   
