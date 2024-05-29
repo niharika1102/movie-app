@@ -25,7 +25,7 @@ function App() {
     };
 
     useEffect(() => {
-        searchMovies('La La Land');
+        searchMovies('Friends');
     }, [])
 
 
