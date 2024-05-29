@@ -1,4 +1,4 @@
-<h1 align="center" id="title">MovieLand</h1>
+<h1 align="center" id="title">MovieLand 📽️</h1>
 
 <p align="center"><img src="https://socialify.git.ci/niharika1102/movie-app/image?description=1&amp;descriptionEditable=A%20website%20to%20get%20information%20about%20a%20movie%20or%20web%20series%20simply%20by%20searching%20its%20name.&amp;font=Raleway&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
