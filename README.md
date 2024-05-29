@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">MovieLand</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/niharika1102/movie-app/image?description=1&amp;descriptionEditable=A%20website%20to%20get%20information%20about%20a%20movie%20or%20web%20series%20simply%20by%20searching%20its%20name.&amp;font=Raleway&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">MovieLand is a website that helps a user to get information about a web series or a movie like its poster and its release year simply by searching with the title of the movie or the web series.</p>
 
-In the project directory, you can run:
+<h2>🚀 Demo</h2>
 
-### `npm start`
+[https://main--golden-salmiakki-131c76.netlify.app/](https://main--golden-salmiakki-131c76.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Project Screenshots:</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://i.imgur.com/ARzVBoc.png" alt="project-screenshot" width="400" height="400/">
 
-### `npm test`
+<img src="" alt="project-screenshot" width="400" height="400/">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  
+  
+<h2>🧐 Features</h2>
 
-### `npm run build`
+Here're some of the project's best features:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+*   Integrated with API
+*   Responsive UI
+*   Trendy UI
+*   Information about latest movies and web series
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>🛠️ Installation Steps:</h2>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>1. Clone the repository in your local environment.</p>
 
-### `npm run eject`
+<p>2. Install the dependencies using the following command in the project folder.</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>3. Start the project using the following command.</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p>4. Open http://localhost:3000 to view the web page.</p>
 
-## Learn More
+  
+  
+<h2>💻 Built with</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Technologies used in the project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   React
