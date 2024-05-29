@@ -23,7 +23,7 @@ Here are some of the project's best features:
 *   Trendy UI
 *   Information about the latest movies and web series
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️ Installation Steps</h2>
 
 <p>1. Clone the repository in your local environment.</p>
 
