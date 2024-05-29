@@ -6,9 +6,9 @@
 
 <h2>🚀 Demo</h2>
 
-[https://main--golden-salmiakki-131c76.netlify.app/](https://main--golden-salmiakki-131c76.netlify.app/)
+[Visit the website](https://main--golden-salmiakki-131c76.netlify.app/)
 
-<h2>📷 Project Screenshots:</h2>
+<h2>📷 Project Screenshots</h2>
 
 <img src="https://i.imgur.com/ARzVBoc.png" alt="project-screenshot">
 <br>
