@@ -18,7 +18,7 @@
 
 Here are some of the project's best features:
 
-*   Integrated with API
+*   Integrated with API, so the data is regularly updated
 *   Responsive UI
 *   Trendy UI
 *   Information about the latest movies and web series
